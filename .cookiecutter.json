@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/dallan/rootsdex",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Dallan Quass",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "dallan@gmail.com",
+  "friendly_name": "Enrichify",
+  "github_user": "DallanQ",
+  "license": "MIT",
+  "package_name": "enrichify",
+  "project_name": "enrichify",
+  "version": "0.0.0"
+}

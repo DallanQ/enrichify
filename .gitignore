@@ -8,5 +8,6 @@
 /docs/_build/
 /src/*.egg-info/
 __pycache__/
-.idea/
-data/
+/notebooks/.ipynb_checkpoints/
+/.idea/
+/data/
